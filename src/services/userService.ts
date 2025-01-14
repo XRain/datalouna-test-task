@@ -27,7 +27,7 @@ export async function authenticateUser(username: string, password: string) {
   const validPassword = await bcrypt.compare(password, user.password_hash);
   if (!validPassword) return null;
   
-  console.log('User signed in', user.username);
+  console.log('User signed in:', user.username);
   return {
     id: user.id,
     username: user.username,
