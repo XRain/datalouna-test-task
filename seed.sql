@@ -1,0 +1,16 @@
+INSERT INTO items (name, price, quantity) VALUES
+    ('AK-47 | Asiimov (Factory New)', 25.50, 19),
+    ('M4A4 | Howl (Field-Tested)', 185.00, 143),
+    ('AWP | Dragon Lore (Battle-Scarred)', 11.00, 205),
+    ('Desert Eagle | Blaze (Minimal Wear)', 4.30, 112),
+    ('USP-S | Kill Confirmed (Factory New)', 22.75, 403),
+    ('Butterfly Knife | Fade (Factory New)', 1265.00, 65),
+    ('Glock-18 | Fade (Factory New)', 9.25, 214),
+    ('M4A1-S | Hyper Beast (Minimal Wear)', 45.50, 98),
+    ('P250 | Muertos (Factory New)', 12.50, 182),
+    ('AK-47 | Vulcan (Field-Tested)', 75.25, 411),
+    ('AWP | Neo-Noir (Factory New)', 125.00, 346),
+    ('Karambit | Doppler (Factory New)', 365.00, 243),
+    ('SSG 08 | Blood in the Water (Minimal Wear)', 85.50, 405),
+    ('P90 | Asiimov (Factory New)', 35.75, 168),
+    ('Five-SeveN | Case Hardened (Factory New)', 65.25, 230); 
